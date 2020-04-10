@@ -40,18 +40,18 @@ Most importantly, you can talk to the app, can fine tune it considering you give
 
 Thats what is interactive maybe you help your friend who wants to park in those streets you drove by....community service is after all not so bad, is it?
 
-Possible features
-COLLECTION:-Data from users, statistical data from websites, vehicle flows in and out(traffic data) from a particular busy street
-PREDICTION:-Mathematics:- Kirchoffs equations :-parked(street)= entered - left - turnaround(neighbouring streets)
-For a street time parking vacancy mapping for future like at 9 pm on a friday evening
-ANALYSIS :- Possibility of easily understandable parking places in percentage/graph form,added on with a price overview.
-FUTURE:- Online parking tickets booking channel.....interesting?
+Possible features\
+COLLECTION:-Data from users, statistical data from websites, vehicle flows in and out(traffic data) from a particular busy street\
+PREDICTION:-Mathematics:- Kirchoffs equations :-parked(street)= entered - left - turnaround(neighbouring streets)\
+For a street time parking vacancy mapping for future like at 9 pm on a friday evening\
+ANALYSIS :- Possibility of easily understandable parking places in percentage/graph form,added on with a price overview.\
+FUTURE:- Online parking tickets booking channel.....interesting?\
 FEEDBACK :-Current situation from our users like the community service,eh?
 
 
 # References
 
-[CM16]  CityofMunich.(2016).ParkingZones,ResidentialParkingPe  rmits. Retrieved fromhttp://www.muenchen.de/int/en/traffic/cars-and-traffic/parking-zones.html
+[CM16]  CityofMunich.(2016).ParkingZones,ResidentialParkingPermits. Retrieved fromhttp://www.muenchen.de/int/en/traffic/cars-and-traffic/parking-zones.html
 
 [DW15]Deutscher Wetterdienst. (2015). Klimadaten-online - frei.   Retrievedfromhttp://w  ww.dwd.
 
