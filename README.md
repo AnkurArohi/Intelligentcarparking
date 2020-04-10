@@ -16,7 +16,7 @@ How about we save money and time?
 
 We all respond in a yes...but how?
 
-Answer-> We need to talk about things which afects us, eventhough we can't....
+Answer-> We need to talk about things which affects us, eventhough we can't....
 Thats where we see a possibility of a virtual interface.
 An activity mapper and not just a random activity rather something which definitely affects us in real life-> "MOBILITY"
 Its saturday,
