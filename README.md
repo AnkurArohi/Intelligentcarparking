@@ -1,14 +1,15 @@
 # Intelligentcarparking
-A simple web/app application to determine parking possibilities around a selected user destination
+A simple web/app application to determine parking possibilities around a selected user destination at a given time.
 
 
-Idea collaboration
+# Idea collaboration
 
 Interactive parking solution 
 
-#How about electrons flowing in a complicated power distribution system , talk to each other regarding their status, flow, alarming situations etc?
-How about removing the deterministic approach to load flow,OPF other calculations with a predictable(already some commercial solutions exist) realtime feedback system(thats the edge....)?
-It sounds cool but the basic need is unmet, electrons are a creation of human mind maybe a reality but definately not discovered to be talkative.
+# Background
+How about electrons flowing in a complicated power distribution system , talk to each other regarding their status, flow, alarming situations etc?
+How about removing the deterministic approach to load flow,OPF other calculations with a predictable (already some commercial solutions exist) realtime feedback system(thats the edge....)?
+It sounds cool but the basic need is unmet, electrons are a creation of human mind maybe a reality but definitely not discovered to be talkative.
 
 Lets come to a completely different environment "US"
 
@@ -48,7 +49,7 @@ FUTURE:- Online parking tickets booking channel.....interesting?
 FEEDBACK :-Current situation from our users like the community service,eh?
 
 
-Refs
+# References
 
 [CM16]  CityofMunich.(2016).ParkingZones,ResidentialParkingPe  rmits. Retrieved fromhttp://www.muenchen.de/int/en/traffic/cars-and-traffic/parking-zones.html
 
