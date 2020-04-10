@@ -43,6 +43,9 @@ Possible features
 COLLECTION:-Data from users, statistical data from websites, vehicle flows in and out(traffic data) from a particular busy street
 PREDICTION:-Mathematics:- Kirchoffs equations :-parked(street)= entered - left - turnaround(neighbouring streets)
 For a street time parking vacancy mapping for future like at 9 pm on a friday evening
+ANALYSIS :- Possibility of easily understandable parking places in percentage/graph form,added on with a price overview.
+FUTURE:- Online parking tickets booking channel.....interesting?
+
 FEEDBACK :-Current situation from our users like the community service,eh?
 
 
