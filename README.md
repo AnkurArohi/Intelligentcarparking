@@ -52,7 +52,7 @@ COLLECTION:-Data from users, statistical data from websites, vehicle flows in an
 
 http://www.muenchen.de/int/en/traffic/cars-and-traffic/parking-zones.html
 
-http://w  ww.dwd.
+http://www.dwd.de
 
 https://pdfs.semanticscholar.org/f70d/6ebf231994090c58baeecf1e64d2b199f942.pdf
 
