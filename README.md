@@ -43,7 +43,7 @@ Thats what is interactive maybe you help your friend who wants to park in those 
 Possible features\
 COLLECTION:-Data from users, statistical data from websites, vehicle flows in and out(traffic data) from a particular busy street\
 
-## Problem Statement   
+## Problem Statement for the MVP
 
 If a person is travelling from point A to B at a given time of day (t), the solution should be able to give 2 things:
 - Which and how many parking places are available?
@@ -51,15 +51,6 @@ If a person is travelling from point A to B at a given time of day (t), the solu
  for a given radius (r) around B.
 
 Precisely, from ML/DS standpoint a multivariate and multi-output regression.
-
-FEEDBACK:-User specification of the parking situation in the bylanes where the user walks by to his destination after parking his own vehicle for the next prediction in those bylanes at around that time\
-This can be used to finetune parameters in our training model\
-For a street time parking vacancy mapping for future like at 9 pm on a friday evening\
-ANALYSIS :- Possibility of easily understandable parking places in percentage/graph form,added on with a price overview.\
-
-FUTURE:- Online parking tickets booking channel.....interesting?\
-
-
 
 # References
 
@@ -73,7 +64,8 @@ https://www.here.com/products/traffic-solutions/real-time-traffic-information
 
 https://www.sciencedirect.com/science/article/abs/pii/S0957417412001042
 
-# Intresting Projects 
+# Intresting Projects
+
 https://github.com/hacker-alliance/UCFParkingAgent 
 
 https://github.com/Jbiloki/TitanPark-FlaskApp
