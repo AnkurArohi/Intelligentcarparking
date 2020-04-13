@@ -54,9 +54,9 @@ Precisely, from ML/DS standpoint a multivariate and multi-output regression.
 
 # References
 
-[CM16]  CityofMunich.(2016).ParkingZones,ResidentialParkingPermits. Retrieved fromhttp://www.muenchen.de/int/en/traffic/cars-and-traffic/parking-zones.html
+http://www.muenchen.de/int/en/traffic/cars-and-traffic/parking-zones.html
 
-[DW15]Deutscher Wetterdienst. (2015). Klimadaten-online - frei.   Retrievedfromhttp://w  ww.dwd.
+http://w  ww.dwd.
 
 https://pdfs.semanticscholar.org/f70d/6ebf231994090c58baeecf1e64d2b199f942.pdf
 
