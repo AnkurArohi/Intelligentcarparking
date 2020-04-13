@@ -4,7 +4,7 @@ A simple web/app application to determine parking possibilities around a selecte
 
 # Problem Statement for the MVP
 
-If a person is travelling from point A to B at a given time of day (t1), the solution should be able to give 2 things:
+If a person is travelling from point A to B at a given time of day (t1), the solution should be able to answer the following two questions:
 - Which and how many parking places are available?
 - What are the probabilities of space availability in each one of them?
 
