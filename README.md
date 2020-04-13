@@ -60,3 +60,12 @@ https://pdfs.semanticscholar.org/f70d/6ebf231994090c58baeecf1e64d2b199f942.pdf
 https://www.here.com/products/traffic-solutions/real-time-traffic-information
 
 https://www.sciencedirect.com/science/article/abs/pii/S0957417412001042
+
+# Intresting Projects \
+https://github.com/hacker-alliance/UCFParkingAgent \
+
+https://github.com/Jbiloki/TitanPark-FlaskApp\
+
+https://github.com/User1m/parkingball \n
+
+https://github.com/lrei/carpark_prediction
