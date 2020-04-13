@@ -42,7 +42,9 @@ Thats what is interactive maybe you help your friend who wants to park in those 
 
 Possible features\
 COLLECTION:-Data from users, statistical data from websites, vehicle flows in and out(traffic data) from a particular busy street\
-PREDICTION:-Mathematics:- Kirchoffs equations :-parked(street)= entered - left - turnaround(neighbouring streets)\
+PROBLEM STATEMENT:-Mathematical:- Linear Regression to finally predict the available free parking spaces on a particular street at a particular time in a predefined radius\
+FEEDBACK:-User specification of the parking situation in the bylanes where the user walks by to his destination after parking his own vehicle for the next prediction in those bylanes at around that time\
+This can be used to finetune parameters in our training model\
 For a street time parking vacancy mapping for future like at 9 pm on a friday evening\
 ANALYSIS :- Possibility of easily understandable parking places in percentage/graph form,added on with a price overview.\
 FUTURE:- Online parking tickets booking channel.....interesting?\
