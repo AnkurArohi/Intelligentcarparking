@@ -4,10 +4,10 @@ A simple web/app application to determine parking possibilities around a selecte
 
 # Problem Statement for the MVP
 
-If a person is travelling from point A to B at a given time of day (t), the solution should be able to give 2 things:
+If a person is travelling from point A to B at a given time of day (t1), the solution should be able to give 2 things:
 - Which and how many parking places are available?
 - What are the probabilities of space availability in each one of them?
- for a given radius (r) around B.
+ for a given radius (r) around B at time t2 (ETA).
 
 Precisely, from ML/DS standpoint a multivariate and multi-output regression.
 
