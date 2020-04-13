@@ -61,11 +61,11 @@ https://www.here.com/products/traffic-solutions/real-time-traffic-information
 
 https://www.sciencedirect.com/science/article/abs/pii/S0957417412001042
 
-# Intresting Projects \
-https://github.com/hacker-alliance/UCFParkingAgent \
+# Intresting Projects 
+https://github.com/hacker-alliance/UCFParkingAgent 
 
-https://github.com/Jbiloki/TitanPark-FlaskApp\
+https://github.com/Jbiloki/TitanPark-FlaskApp
 
-https://github.com/User1m/parkingball \n
+https://github.com/User1m/parkingball 
 
 https://github.com/lrei/carpark_prediction
