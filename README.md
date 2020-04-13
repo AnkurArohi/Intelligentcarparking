@@ -2,9 +2,14 @@
 A simple web/app application to determine parking possibilities around a selected user destination at a given time.
 
 
-# Idea collaboration
+# Problem Statement for the MVP
 
-Interactive parking solution 
+If a person is travelling from point A to B at a given time of day (t), the solution should be able to give 2 things:
+- Which and how many parking places are available?
+- What are the probabilities of space availability in each one of them?
+ for a given radius (r) around B.
+
+Precisely, from ML/DS standpoint a multivariate and multi-output regression.
 
 # Background
 How about electrons flowing in a complicated power distribution system , talk to each other regarding their status, flow, alarming situations etc?
@@ -42,15 +47,6 @@ Thats what is interactive maybe you help your friend who wants to park in those 
 
 Possible features\
 COLLECTION:-Data from users, statistical data from websites, vehicle flows in and out(traffic data) from a particular busy street\
-
-## Problem Statement for the MVP
-
-If a person is travelling from point A to B at a given time of day (t), the solution should be able to give 2 things:
-- Which and how many parking places are available?
-- What are the probabilities of space availability in each one of them?
- for a given radius (r) around B.
-
-Precisely, from ML/DS standpoint a multivariate and multi-output regression.
 
 # References
 
