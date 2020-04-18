@@ -10,7 +10,7 @@ If a person is travelling from point A to B at a given time of day (t1), the sol
 
 for a given radius (r) around B at time t2 (ETA).
 
-Precisely, from ML/DS standpoint a multivariate and [multi-nomial classification](https://en.wikipedia.org/wiki/Multiclass_classification).
+Precisely, from ML/DS standpoint, it is a multivariate and [multi-nomial classification](https://en.wikipedia.org/wiki/Multiclass_classification) problem.
 
 # Background
 How about electrons flowing in a complicated power distribution system , talk to each other regarding their status, flow, alarming situations etc?
