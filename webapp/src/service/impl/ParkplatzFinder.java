@@ -3,5 +3,5 @@ import java.util.List;
 public interface ParkPlatzFinder{
 
     List<String> getParkPlatz(String addr,int radius);
-    double getDistance(String addr1, String addr2);
+    double getDistance(Strasse addr1, Strasse addr2);
 }
