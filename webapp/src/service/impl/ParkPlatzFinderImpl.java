@@ -5,7 +5,7 @@ public class ParkPlatzFinderImpl implements ParkPlatzFinder {
     }
 
     @Override
-    public List<String> getParkPlatz(String addr, int radius) {
+    public List<Strasse> getParkPlatz(String addr, int radius) {
         return null;
     }
 
