@@ -2,25 +2,31 @@
 
 public class Strasse {
 
-    private String name;//26121Sophienstr
-    private String addr;//Exact string like sophienstr.
+    private String name;// e.g. 26121Sophienstr
+    private String addr;// e.g. Exact string like sophienstr.
+    private Integer plz;// e.g. 22453
 
-    public Strasse(String name,int plz) {
+    public Strasse(String addr,int plz) {
         // require name and PLZ to construct it
-        this.addr=name;
-        this.name=plz+name;//unique identifier
+        this.addr = addr;
+        this.plz = plz;
+        this.setName();
     }
 
     public String getName() {
-        return name;
+        return this.name;
     }
 
-    public String getAddr() { return addr; }
-
-    public void setAddr(String addr) {
-        this.addr = addr;
+    public Integer getPlz(){
+        return this.plz
     }
 
-    public void setName(String name,int plz) { this.name = plz+name;}
+    public String getAddr() {
+        return this.addr;
+    }
+
+    private String setName(){
+       this.name = this.plz+this.addr
+    }
 
 }
