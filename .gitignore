@@ -18,6 +18,7 @@ test-output/
 
 # IntelliJ
 .iml
+webapp/server/production/
 
 # Java related entries
 *.class

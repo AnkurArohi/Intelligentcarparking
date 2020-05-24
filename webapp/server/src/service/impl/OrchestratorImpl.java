@@ -10,11 +10,14 @@ public class OrchestratorImpl implements Orchestrator{
     }
 
     @Override
-    public Map<String, Double> getOutput(Map<String, Strasse> strasseWithProbs) {
+    public Map<String, Double> getOutput(Map<String, Parkplatz> strasseWithProbs) {
         return null;
     }
 
     public static void main(String[] args) {
-
+        Parkplatz parkPlatz = new Parkplatz("Sophienstr",26121,450);
+        parkPlatz.setCost(2.5);
+        System.out.println("Parkplatz capacity: "+parkPlatz.getCapacity());
+        System.out.println("Parkplatz Name: "+parkPlatz.getName());
     }
 }
