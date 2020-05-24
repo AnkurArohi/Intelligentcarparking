@@ -10,7 +10,7 @@ public class OrchestratorImpl implements Orchestrator{
     }
 
     @Override
-    public Map<String, Double> getOutput(Map<String, Strasse> strasseProbs) {
+    public Map<String, Double> getOutput(Map<String, Strasse> strasseWithProbs) {
         return null;
     }
 

@@ -1,4 +1,11 @@
+// this is the class that creates an abstraction for addresses - source/destination
+
 public class Strasse {
+
+    public Strasse() {
+        // require name and PLZ to construct it
+    }
+
     public String getAddr() {
         return name;
     }
@@ -7,9 +14,9 @@ public class Strasse {
         this.name = addr;
     }
 
-    //To instantiate with the object of Src and Dest
     private String name;
+
+    private String addr;
 
     private Double probability;
 }
-

@@ -1,7 +1,9 @@
 import java.util.List;
-//INFO TO uniquely identify a place both PLZ and the straße name are required
+
+//INFO TO uniquely identify a place both PLZ and the strasse name are required
+
 public interface ParkPlatzFinder{
 
-    List<Strasse> getParkPlatz(String addr,int radius);
-    double getDistance(Strasse addr1, Strasse addr2);
+    Map<Str, Strasse> getParkPlatz(Strasse dest, Double radius);
+
 }
