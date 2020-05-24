@@ -17,15 +17,16 @@ public class Parkplatz extends Strasse{
         this.cost = cost;
     }
     public Integer getCapacity() {
-        return capacity;
+        return this.capacity;
     }
     private void setCapacity(Integer capacity) {
         this.capacity = capacity;
     }
     public String getName(){
-        return name;}
+        return this.name;
+    }
     public Double getProbability() {
-        return probability;
+        return this.probability;
     }
     public void setProbability(Double probability) {
         this.probability = probability;

@@ -10,7 +10,7 @@ public class Strasse {
         // require name and PLZ to construct it
         this.addr = addr;
         this.plz = plz;
-        this.setName();
+        this.setName(addr, plz);
     }
 
     public String getName() {
@@ -25,8 +25,8 @@ public class Strasse {
         return this.addr;
     }
 
-    private void setName(){
-       this.name = this.plz+this.addr;
+    private void setName(String addr, Integer plz){
+       this.name = plz+addr;
     }
 
 }

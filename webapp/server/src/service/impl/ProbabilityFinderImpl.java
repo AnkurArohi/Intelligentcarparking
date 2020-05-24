@@ -5,7 +5,7 @@ public class ProbabilityFinderImpl implements ProbabilityFinder{
     }
 
     @Override
-    public Map<String, Strasse> getProbability(Map<String, Strasse> strasseMap, Integer seconds) {
+    public Map<String, Parkplatz> getProbability(Map<String, Parkplatz> strasseMap, Integer seconds) {
         return null;
     }
 }

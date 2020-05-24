@@ -6,7 +6,7 @@ public class ParkPlatzFinderImpl implements ParkPlatzFinder {
     }
 
     @Override
-    public Map<String, Strasse> getParkPlatz(Strasse dest, Double radius) {
+    public Map<String, Parkplatz> getParkPlatz(Strasse dest, Double radius) {
         return null;
     }
 }
