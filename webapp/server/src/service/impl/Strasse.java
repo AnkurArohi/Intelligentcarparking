@@ -6,7 +6,7 @@ public class Strasse {
     private String addr;// e.g. Exact string like sophienstr.
     private Integer plz;// e.g. 22453
 
-    public Strasse(String addr,int plz) {
+    public Strasse(String addr,Integer plz) {
         // require name and PLZ to construct it
         this.addr = addr;
         this.plz = plz;
@@ -18,15 +18,15 @@ public class Strasse {
     }
 
     public Integer getPlz(){
-        return this.plz
+        return this.plz;
     }
 
     public String getAddr() {
         return this.addr;
     }
 
-    private String setName(){
-       this.name = this.plz+this.addr
+    private void setName(){
+       this.name = this.plz+this.addr;
     }
 
 }
